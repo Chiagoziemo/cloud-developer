@@ -1,5 +1,5 @@
 branch-defaults:
-  master:
+  default:
     environment: udagram-okoye-dev-dev
     group_suffix: null
 deploy:
@@ -16,5 +16,5 @@ global:
   platform_version: null
   profile: null
   repository: null
-  sc: git
+  sc: null
   workspace_type: Application

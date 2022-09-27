@@ -1,5 +1,5 @@
-// require('dotenv').config();
-require('dotenv').config({path:'/./../../.env'});
+//require('dotenv').config();
+// require('dotenv').config({path:'/./../../.env'});
 import express from 'express';
 import { sequelize } from './sequelize';
 
